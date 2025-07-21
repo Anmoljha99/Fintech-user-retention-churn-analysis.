@@ -27,7 +27,7 @@ FROM churn_summary
 GROUP BY platform, churned
 ORDER BY platform, churned;
 
--- 3. Daily Active Users (DAU)
+3. Daily Active Users (DAU)
 SELECT
   activity_date,
   COUNT(DISTINCT user_id) AS dau
