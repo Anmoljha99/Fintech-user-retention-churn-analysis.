@@ -18,7 +18,7 @@ FROM users u
 LEFT JOIN user_activity a ON u.user_id = a.user_id
 GROUP BY u.user_id, u.signup_date, u.platform, u.plan_type;
 
- 2. Churn Rate by Platform
+ ---2. Churn Rate by Platform
 SELECT
   platform,
   churned,
