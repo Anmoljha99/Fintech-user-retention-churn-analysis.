@@ -35,7 +35,6 @@ FROM user_activity
 GROUP BY activity_date
 ORDER BY activity_date;
 
--- ======================================
 -- 4. Feature Usage Summary
 SELECT
   action_type,
