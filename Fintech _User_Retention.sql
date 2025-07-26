@@ -1,5 +1,5 @@
 
---- 1.Create churn_summary tabl
+--- 1.Create churn_summary table
 DROP TABLE IF EXISTS churn_summary;
 
 CREATE TABLE churn_summary AS
@@ -43,7 +43,7 @@ FROM user_activity
 GROUP BY action_type
 ORDER BY usage_count DESC;
 
--- ======================================
+-- ==========================
 -- 5. Churn Rate by Plan Type
 SELECT
   plan_type,
