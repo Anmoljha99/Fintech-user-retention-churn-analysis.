@@ -1,5 +1,5 @@
 
---- 1.Create churn_summary table
+-1.Create churn_summary table
 DROP TABLE IF EXISTS churn_summary;
 
 CREATE TABLE churn_summary AS
