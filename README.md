@@ -31,22 +31,22 @@ I built this to understand why users drop off in a FinTech app — and what the 
 ![DAU]
 
 **Churn by Platform**
-![Churn by Platform]
+[Churn by Platform]
 
 **Churn by Plan Type**
-![Churn by Plan]
+[Churn by Plan]
 
 **Retention Curve**
-![Retention Curve]
+Retention Curve]
 
 **Feature Usage**
-![Feature Usage]
+[Feature Usage]
 
 **Retained vs Churned by Plan**
-![Retained vs Churned]
+[Retained vs Churned]
 
 **Avg Session Duration by Plan**
-![Session Duration]
+[Session Duration]
 
 ---
 
