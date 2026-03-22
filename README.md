@@ -28,25 +28,25 @@ I built this to understand why users drop off in a FinTech app — and what the 
 ## Charts
 
 **Daily Active Users**
-![DAU](charts/01_dau.png)
+![DAU]
 
 **Churn by Platform**
-![Churn by Platform](charts/02_churn_by_platform.png)
+![Churn by Platform]
 
 **Churn by Plan Type**
-![Churn by Plan](charts/03_churn_by_plan.png)
+![Churn by Plan]
 
 **Retention Curve**
-![Retention Curve](charts/04_retention_curve.png)
+![Retention Curve]
 
 **Feature Usage**
-![Feature Usage](charts/05_feature_usage.png)
+![Feature Usage]
 
 **Retained vs Churned by Plan**
-![Retained vs Churned](charts/06_retained_vs_churned.png)
+![Retained vs Churned]
 
 **Avg Session Duration by Plan**
-![Session Duration](charts/07_session_duration.png)
+![Session Duration]
 
 ---
 
