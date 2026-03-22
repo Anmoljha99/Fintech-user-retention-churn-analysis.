@@ -59,14 +59,6 @@ I built this to understand why users drop off in a FinTech app — and what the 
 
 ---
 
- Running it locally
-
-```bash
-pip install -r requirements.txt
-python fintech_churn_analysis.py
-```
-
-Charts get saved to the `charts/` folder. SQL queries are in `fintech_user_retention.sql` — compatible with SQLite, DBeaver, or DB Browser.
 
 ---
 
