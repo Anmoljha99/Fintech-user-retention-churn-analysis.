@@ -28,7 +28,7 @@ I built this to understand why users drop off in a FinTech app — and what the 
 ## Charts
 
 **Daily Active Users**
-![DAU]
+[DAU]
 
 **Churn by Platform**
 [Churn by Platform]
